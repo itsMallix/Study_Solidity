@@ -1,0 +1,11 @@
+Layer 01 / L1:
+ada node yang memiliki kontribusi utk mendistribuskan chain hingga membentuk consensus, merupakan base layer dari ekosistem blockchain yang mana dalam L1 bertugas untuk mengeksekusi dan menkonfirmasi transaksi
+
+Layer 02 / L2 : 
+build diatas L1, sperti dApp uniswap merupakan layer 1 karena berjalan diatas etherium  
+
+Rolllup : 
+skala solusi yang bisa meningkatkan jumlah daarii transaksi pada rantai L1
+
+Squencer : 
+merujuk pad operator untuk memesan transaksi dan terkadang membungkusnya menjadi satu dan bersifat centeredlized

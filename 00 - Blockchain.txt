@@ -1,0 +1,38 @@
+Bitcoin diciptakan oleh : pseudo anonim satoshi nakamoto dengan metode peer to peer dan aplikasi pertama yang mengadopsi blockchain
+
+Botcoin sudah terdesentralisasi, beberapa tahun kemudian muncul etherium dan yang menggunakan jaringa seperti bitcoin yaitu smart contract.
+
+The oracle problem = aset dalam blockchain terkurung, bagaimana membawanya pada ralita dan bisa digunakan serta di ekstrak seperti perhitungan dalam blockchain 
+
+Etherium paling banuak digunakan dan paling populer untuk membuat smart contract
+
+Menugusung konsep transparency yaitu bisa dilihat oleh semua orang
+immutable yang tidak bisa diubah oleh orang lain
+
+
+Karakteristik blockchain
+1. decentralized
+2. transparence
+3. speed
+4. immutable
+5. remove counterparty risk
+6. allow to trust minimized agreement (trustless)
+7. hybrid smart contract combine on off-chain
+
+============================
+Gas = Measure of computation use
+Gas Price = How much it costs per unit of Gas
+Gas Limit = Max amount of gas in a transaction
+
+Transaction Fee = Gas Used x Gas Price
+ex : 21.000 Gas @ 1 GWEI/Gas = 21.000 GWEI  
+
+komponen blockchain
+1. block
+2. nonce
+3. data 
+4. prev hash
+5. current hash
+6. merkle root
+
+block pertama disebut genesis block

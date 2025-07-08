@@ -1,0 +1,11 @@
+1. Ethereum
+mirip dengna bitcoin, eth memiliki jaringan peer to peer public dan mata uang sendiri yaitu ETH atau Ethereum
+- vitalik buterin 2014
+
+2. Smart contract (nick szabo 1994)
+perjanjian pada kode komputer yang berjalan di jaringan blockchain sehingga mereke disimpan pada database publik dan tidak dapat diubah / immutable, dapat dikirim secara otomatis tanpa ada pihak ketiga
+
+transaksi hanya terjadi ketika kondisi dalam perjanjian terpenuhi
+
+blockchain bitcoin lebih ditujukan untuk menyimpan daftar saldo dan transaksi di blockchainnya. sementera blockchain ethereum dirancang untuk menyimpan berbagai jenis data, data ini bisa digunakan untuk program komputer yang berjalan di blockchain ethereum yang disebut dApp -> decentralized apps
+

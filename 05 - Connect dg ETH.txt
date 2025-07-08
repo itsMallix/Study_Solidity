@@ -1,0 +1,15 @@
+Ethereum client sebagai node untuk terhubung dengan jaringan Ethereum
+
+Fitur dari Eth client
+1. menambang Eth
+2. transafer eth dari satu akun ke akun lain.
+3. lihat informasi block
+4. membuat dan menerapkan smart contract
+5. menggunakan dan berinteraksi dengan smart contract
+
+Eth clinet 
+1. Eth with c++ -> cli
+2. Geth - ethereum client resmi yang diimplementasikan pada pemrograman GO (cli)
+3. Pyethapp - Python eth client (cli)
+4. Parity - Rush eth client (cli)
+5. Mist (Gui)

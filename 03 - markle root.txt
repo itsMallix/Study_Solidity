@@ -1,0 +1,31 @@
+1. Merkle tree : 
+transaksi di blok disimpan pada markle tree dimana setiap simpul daun ada hash dari sebuah transaksi dan setiap simpul non daun dalah hash kriptografik dari node turunan
+
+Trx1    Trx2        Trx3    Trx4        Trx5
+Ha      Hb          Hc      Hd          He  he
+    Hab                 Hcd             He  he
+            Habcd                       Heee
+                        Habcdeeee
+
+
+2. Merkle root : Habcdeeee (hash paling ujung /root dari kumpulan merkle trees)
+ 
+
+Isi dari blockchain > 
+_________________________
+|      Block header     |
+-------------------------
+|        Header         |
+|     Block Number      |
+|     PrevBlockHash     |
+|      Merkle Root      |
+|         Nonce         |
+|       Timestamp       |
+-------------------------
+|         Body          |
+|         Data          |
+-------------------------
+
+Merkle root dan tree menyimpan merkle di header block dan transaksi sebagai pohon merkle di blokc, light node dapat dengan mudah memverivikasi apakah transaksi milik blok tertentu
+
+ex : ligh node ingin memverivikasi bahwa transi trx3 ada di block tertentu

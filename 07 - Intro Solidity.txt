@@ -1,0 +1,30 @@
+Solidity : 
+bahasa pemrograman tingkat tingge use oop untuk membuat smart contract. solidity termasuk curly brakect language seperti C++ dan js, tujuannnya agar dapat berjalan di EVM.
+
+Solidity diketik secara statis, mendukung inheritance, library dan tipe kompleks bisa ditentukan antar pengguna (OOP)
+
+Contoh pengaplikasian Smart contract
+1. e voting
+2. crowdfunding
+3. lelang buta
+4. multi signature wallet
+
+Solidity for smart contract
+1. send ether to smart contract
+2. send ether from smart contract to toher address
+
+GAS Fee : 
+1. adalah tarif internal untuk menjalankan kontrak dalam eth
+2. digunakan untuk mengatasi serangan denial of service dari infinite loop
+3. bisa dilihat ketika hendak melakukan withdraw pada wallet
+4. miner di eth bebas untuk megabaikan gas feenya
+5. mirip sistem kwh listrik
+
+Compiler
+1. remix ide (online browser)
+2. Geth (Go eht) console
+
+Versi pragma : 
+1. menganotasi file sumber dengan syarat
+2. berasal dari versi semantik yang banyak di gunakan pada komunitas js
+3. ^ pragma versi^

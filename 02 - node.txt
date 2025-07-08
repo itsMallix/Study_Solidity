@@ -1,0 +1,15 @@
+1. Full node
+mining yan gbertugas untuk memecahkan fungsi hashing dan nantinya akan mendapatkan koin, bisa digunakan pada mining dan desktop wallet, memiliki tujuan untuk memastikan integrasi bc dengan orang yang menjalankan full node
+ - mempertahankan salinan bc secara lengkap
+ - mampu memverifikasi semua transaksi sejak awal
+ - memverifikasi blok yang baru dibuat dan menambahkan pada bc network
+
+2. Node desktop wallet
+yang memungkinkan pengguna untuk melakukan transaksi kripto
+dibagi menjadi light node yang membantu memverivikasi transaksi dengan metode SPV (simplified payment veirfication) yang terhubung pada node
+ - menyelesaikan msalah hashingdab menemukan nonce
+
+3. light node
+memerlukan header blok dari semua blok di bc. contoh mobile wallet, seperti aplikasi seluler coinbase.
+ - mempertahankan header bc
+ - menggunakan spv untuk memverifikasi apakah ada transaksi dan valid dalam satu blok
