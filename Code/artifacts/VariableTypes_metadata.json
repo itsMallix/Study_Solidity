@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getHasil",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "num1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "num2",
+						"type": "uint256"
+					}
+				],
+				"name": "tambah",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/VariableTypes.sol": "VariableTypes"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/VariableTypes.sol": {
+			"keccak256": "0xeb47b0428a8c7fc7d1e554214a318efacb87d13bb74a73e33d3fab8ecb110092",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://791b55300bf37e9df3eb8e84b40aa8783469de15dde7d7470b1baaeff3e22974",
+				"dweb:/ipfs/QmTnCraMMMD5rPZA6AD4MN6zjkARU8tYhvjBvh8SUUhhJ6"
+			]
+		}
+	},
+	"version": 1
+}
